@@ -1,0 +1,1 @@
+"""MarketDNA shared core primitives."""
